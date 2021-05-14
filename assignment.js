@@ -1,4 +1,4 @@
-
+//  https://github.com/devTusharJoy/js_assignment
 
 // kilometer to meter
 
@@ -12,8 +12,6 @@ function kilometerToMeter(kilometer) {
 }
 var meter = kilometerToMeter('hey');
 console.log(meter);
-
-
 
 
 // budgetCalculator (watch 50, phone 100, laptop 500)
