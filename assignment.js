@@ -26,7 +26,7 @@ function budgetCalculator(watch, phone, laptop) {
       return "Please provide valid input";
     }
   
-    let prices = { watch: 50, phone: 100, laptop: 500,};
+    let prices = { watch: 50, phone: 100, laptop: 500};
     let totalPrice = watch * prices.watch + phone * prices.phone + laptop * prices.laptop;
   
     return totalPrice;
